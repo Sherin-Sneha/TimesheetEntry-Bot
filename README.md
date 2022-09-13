@@ -20,4 +20,7 @@ Filling a Timesheet flow for regular user:
 
 ![image](https://user-images.githubusercontent.com/67852150/189952280-7380e86a-323f-4738-942e-d1b6430febcd.png)
 
+![image](https://user-images.githubusercontent.com/67852150/189953326-e73d9d95-e5cc-4be7-b755-a61c4e73f493.png)
+
+
 Thus seamless timesheet entry, retrieval, verification BOT is made with RASA software integrated with Telegram for UI and Airtable for database and API support.
